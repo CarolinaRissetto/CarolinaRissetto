@@ -1,27 +1,17 @@
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-  
-  <div style="flex: 1; min-width: 250px; max-width: 600px;">
-  
-  <strong>Hey, I’m so glad you’re here! 🫶</strong>  
-  <br/>
-  <strong>I'm Carol — a fullstack developer!</strong>  
-  <br/>
-  I'm a curious person, always trying to understand more about the world of technology (and life too).  
-  <br/>
-  I love getting hands-on: building, hosting, thinking about the product...  
-  And of course, enjoying a good cup of coffee, chatting, and listening to Taylor Swift.  
-  <br/>
-  I'm currently doing an MBA in Product Management, and being around people is something I truly enjoy — a great team makes you want to do more!  
-  <br/>
-  Besides development, I’ve also taken part in tech volunteer projects and had the pleasure of mentoring and teaching others on this journey.
-  
-  </div>
-  
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR0Mzl3dmNmY21ndmIwa2VyZnlyNW9oNHV6aTg2M2FiMnduNTdvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="250px" style="max-width: 100%; border-radius: 12px;" />
-  </div>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR0Mzl3dmNmY21ndmIwa2VyZnlyNW9oNHV6aTg2M2FiMnduNTdvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="250px" style="border-radius: 12px;" />
 
-</div>
+<strong>Hey, I’m so glad you’re here! 🫶</strong>  
+<br/>
+<strong>I'm Carol — a fullstack developer!</strong>  
+<br/>
+I'm a curious person, always trying to understand more about the world of technology (and life too).  
+<br/>
+I love getting hands-on: building, hosting, thinking about the product...  
+And of course, enjoying a good cup of coffee, chatting, and listening to Taylor Swift.  
+<br/>
+I'm currently doing an MBA in Product Management, and being around people is something I truly enjoy — a great team makes you want to do more!  
+<br/>
+Besides development, I’ve also taken part in tech volunteer projects and had the pleasure of mentoring and teaching others on this journey.
 
 ## </div>
 

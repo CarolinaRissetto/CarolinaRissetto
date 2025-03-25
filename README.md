@@ -60,8 +60,3 @@ Besides development, I’ve also taken part in tech volunteer projects and had t
   <span style="color: #ff69b4;">— Naruto</span>
 </div>
 
-## <div >
-
-![alt text](image.png)
-
-</div>

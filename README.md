@@ -1,37 +1,28 @@
-<div style="max-width: 800px;">
+<table>
+  <tr>
+    <td>
 
-<span style="color:#792edb; font-size:18px;">
-Oi, que bom que você veio aqui! 🫶  
-</span>
+<strong>Hey, I’m so glad you’re here! 🫶</strong>
 
-<p style="color:#9836e3; font-size:18px;">
-<strong>Eu sou a Carol — uma desenvolvedora fullstack!</strong>
-</p>
+<strong> I'm Carol — a fullstack developer! </strong>
 
-<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+I'm a curious person, always trying to understand more about the world of technology (and life too).  
 
-  <div style="flex: 1; min-width: 250px;">
+I love getting hands-on: building, hosting, thinking about the product...  
+And of course, enjoying a good cup of coffee, chatting, and listening to Taylor Swift.  
 
-  <p>Sou curiosa e estou sempre buscando entender mais sobre o mundo da tecnologia (e da vida também).</p>
+I'm currently doing an MBA in Product Management, and being around people is something I truly enjoy — a great team makes you want to do more!
 
-  <p>Adoro colocar a mão na massa: desenvolver, hospedar, pensar no produto... e, claro, tomar um bom cafezinho, bater papo, escutar Taylor Swift...  
-  Mas voltando ao profissional: atualmente estou fazendo um MBA em Gerenciamento de Produtos, e estar com pessoas é algo que eu amo — um bom time te faz querer mais!</p>
+Besides development, I’ve also taken part in tech volunteer projects and had the pleasure of mentoring and teaching others on this journey.
 
-  </div>
+  </td>
+  <td align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR0Mzl3dmNmY21ndmIwa2VyZnlyNW9oNHV6aTg2M2FiMnduNTdvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="250px"/>
+  </td>
+  </tr>
+</table>
 
-  <div style="flex: 0 0 200px; text-align: center; margin-left: 20px;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR0Mzl3dmNmY21ndmIwa2VyZnlyNW9oNHV6aTg2M2FiMnduNTdvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="200px" />
-  </div>
-
-</div>
-
-<br/>
-
-<p>Além do trabalho com desenvolvimento, também já participei de iniciativas de voluntariado em tecnologia e tive o prazer de ensinar e mentorar outras pessoas nessa jornada.</p>
-
-</div>
-
----
+## </div>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
@@ -50,10 +41,10 @@ Oi, que bom que você veio aqui! 🫶
 
 ---
 
-## 🌐 Fale comigo
+## 🌐 Get in touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carolinarissetto" target="_blank">
+  <a href="https://www.linkedin.com/in/carolina-rissetto" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />
   </a>
 <a href="mailto:carolinarrissetto@gmail.com">
@@ -62,8 +53,15 @@ Oi, que bom que você veio aqui! 🫶
 
 </p>
 
-## 🍥 Uma frase legal
+## 🍥 A cool quote
+
 <div align="center" style="border: 2px solid #792edb; padding: 20px; border-radius: 10px; background-color: #f9f4ff; color: #792edb; font-family: Georgia, serif;">
   <strong><em>“Este é o meu jeito ninja!”</em></strong><br/>
   <span style="color: #ff69b4;">— Naruto</span>
+</div>
+
+## <div >
+
+![alt text](image.png)
+
 </div>

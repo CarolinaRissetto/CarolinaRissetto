@@ -35,7 +35,7 @@ Besides development, I’ve also taken part in tech volunteer projects and had t
 <h2 align="center">🌐 Get in touch:</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/carolinarissetto/" target="_blank">
+<a href="https://www.linkedin.com/in/carolina-rissetto/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />
   </a>
 <a href="mailto:carolinarrissetto@gmail.com">
